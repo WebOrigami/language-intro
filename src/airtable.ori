@@ -1,0 +1,11 @@
+// Load data from this Airtable base and table
+airtable.js(token)/appZ0s0nNFAG9Aax0/People
+
+// Use names as keys and just a record's `fields` as the value
+→ (data) => map(data/records, {
+  key: (record) => record/fields/Name
+  value: (record) => record/fields
+})
+
+// Sort by name
+→ =sort(_, (fields, key) => key)

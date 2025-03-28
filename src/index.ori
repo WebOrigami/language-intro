@@ -1,7 +1,0 @@
-(people) => `<h1>About Us</h1>
-<ul>
-  ${ map(people, (person) => `
-    <li>${ person/name }</li>
-  `) }
-</ul>
-`

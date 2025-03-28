@@ -1,0 +1,78 @@
+Alice:
+  Name: Alice
+  Bio: After working as a manager for numerous startups over the years, I decided
+    to take the plunge and start a business of my own.
+  Image:
+    - id: attX0KMjrtSdKZn6O
+      width: 1000
+      height: 1000
+      url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/oDJCGevE6i4dbojsWkQFIw/rvkACQDxQEIxP6izRnf_N8y712uroxZ3iZO5U-lQAv9hucvB4XPMWvvzyAPJ_lZ2hJgXxi19sart5gyuc54lIAPgDo81AKFWbXG8Sppb7F6_MSIMeXluI2tQZr98n-d577ChEaOJxOS-Kqdyhm3Fzw/aPjPG9ngF46UMAIlPyttdEeTQeO32pnK54FfuTTycnQ
+      filename: van.jpg
+      size: 478595
+      type: image/jpeg
+      thumbnails:
+        small:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/wC-KwXLSdBNUFCG8Swy7pg/RPSea5qZPHyhHE8tnTVYNvEoUQa8_kqp4kFIv1I5P_3W1g--2jtyLG62wsDZq6N3h0WF3eX1eCGGpNtcR1GE4Ro7MGMj9p0CO0wxLEEb-qiVIXiy_k5twL_h2yqMcWFWXBCSI65iIXrz5jjtgqCFfw/FqSxgc_ib_RKxXLWRqnywodMQa51ijMKjqUaM3Jyk8g
+          width: 36
+          height: 36
+        large:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/vWAgpNKsQthmITWeywaPPQ/_gsCpoJvMf0T_h68vKAOCsDMiPBzIw6gfpMzw3FTz_q5ynz9rhqbKhthJgNj-p-MJYwQtjqTNrQ3pFczMgcT3l5ScpyJNAy_0REuGGoMIWT5rlTE05DpJIS_2FOKBDEgnVOAp0v_jGCfo4O9QvnrIw/k98JkTkJCmHB2uoHug8MQsscQDYkNiUgfFz0ts2PdBo
+          width: 512
+          height: 512
+        full:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/gg5P_4GGJHgrnNzO8ZwWJA/OWBtWJwDxGZrLc1N34LqyLrcuf9-XQGU1XzzKCjQWdEUAZddQUZ6NN7LHHsTJPDgrZHhu4tJnYkC6fHS4R_YyC4PwV2l-peTnjozD_Ojo_kG_g-WKgmHQQkasFXPfSc5Az_2FllBPx9o1KabzZZH4Q/mj053iEZsVjmFXm7d4e-EwgrBrAfIhGx1pbfGRi-5MU
+          width: 1000
+          height: 1000
+  Location: Honolulu
+Bob:
+  Name: Bob
+  Bio: Having been an art student for 11 years, I constantly explore various
+    disciplines to incorporate artistic pursuits into product design studies.
+  Image:
+    - id: attaok5XrIx3cOFFD
+      width: 1000
+      height: 1000
+      url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/iqdNyj7vR1emcFy1f-ScTw/f2ARh6OgAQWSUefBqSbm_jVcS1pWrnLUT6XShgMsms3S3i_P07IPw1j45lfXqeQ1e-JG5hWqZINPQDcbktBBFgtZIFSzP80k2xXtTVr3utoXE6Dh7b8cUkwiTv87KT5Q-J0QjZgnuS2Vh5R_EoeF9LDDCAv-2Y2m9zCiKVSnuOo/AFdDRVsja5B_auntcKcBgeg2xBs9q7oi89r5eEsFAI4
+      filename: kingfisher.jpg
+      size: 582700
+      type: image/jpeg
+      thumbnails:
+        small:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/y6QVyU4lAZSmKIwzs9YB7g/pzN0T5Q8_JYD_pUf0hF6Ba8vl3LFy0bD5O2WYdVBhshQ6mWXU53nWGnBi1ot8B3lIbwGxMQNmkNnplEkJ1YL5s44E05tx6b_eNQKqvH5PTYhARamIvsMDPz_YpN_q4L81quLXtYEhJ8ZjdCLYOa90g/LvZ4m5H6exjGYdSrZIZqGYfvU8Mbd_ADuE5IGFr-6EY
+          width: 36
+          height: 36
+        large:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/Homd7oDuDUWz046ozExd3g/lcFqK0DnzuCIZJI_N5uNoGlvs6RikmmchUyFxgdYOCZu342lloyfP38LIIKdRWpjOIHSDog8t9dyKPyEXzzbtDM9sFXDCRuwcv6fAR9wsWvAAAd95DsvjcXtlhDfDo1WsFDSHWxNJC_uvz6ObISufA/xFg3AMTP2AHzuTos8N1r3SFa2MhGyEBgcwAmoxdVuXY
+          width: 512
+          height: 512
+        full:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/BoeCpBsAx8yTzl-XtPBq1Q/6uZs0-eVIUZEARdCIRK1iQ3SvcrUAPZe89N9iYALxDMxTGZe7uw2A8mE8kvra6kfzpTjKGf_QOoY6PO0iy3PcX99dXi3O_94gEKthZQrL88otwurDQFvfdRtFdslSBAMTYBIqK4qyd0adnNrRaf_Xg/fAqMRb-yq4NNy0R4NsAElHdzyd3bmSUvKLPE-GF6FLY
+          width: 1000
+          height: 1000
+  Location: Los Angeles
+Carol:
+  Name: Carol
+  Bio: I open the line of communication between clients, customers, and businesses
+    to get projects done.
+  Image:
+    - id: attZfEMWpXuH5Ffgw
+      width: 1000
+      height: 1000
+      url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/eO2B0aDgK8uNSxKra6wQTg/D_XylhlRDZu7H3D-XyBPwzLyCOgWYBTiBy7MSmWmmnmalKG1sCNiu01wOjJorYoAiuiqiLP21jY5RMb6UOY6GE6EShLn5imFCd4nJdkhZRsonEcNWuzxJlL7XECEpOYKJmZygsMOsyXobngwjdVys1PL-hln9iUqgjA9EimZkAs/mhoo2jzz40-T4L7DWk3qMzoc6_50bKHK3OqHUflMzuk
+      filename: venice.jpg
+      size: 665585
+      type: image/jpeg
+      thumbnails:
+        small:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/Ira1JQtTirlCNqO4KrAeKA/OBJ7OKRkSWBOnaK6ZmOx-6Vj4kBAtis8ni-Kj7o0IHi-XiNKw7SBvo4R1chrBx5eWeUHff1RphvVlqCP4VaKWjKFdYVKWmtLNwBP4ZHi6i__pkAlfVKnqqLVkkPO2M6lIZrYgsk06Fd2gVnUXFVECw/vUvrhHR5wy1cPcf6sY_9RWbiMfyxpdZDN15cWw3NY0U
+          width: 36
+          height: 36
+        large:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/LNOuiXpYrUYpK3XJx45PYw/OFMltg5L9YsbD2l8SXL58ZByrfiDEzghH8qFl91WQU1XyTDp3m-rTRRhMXGhs0NZSZY-MdIAQE31qVaMyDSUqn_NS81yRvchST94Bp-Q3wY5gy-t023i19X9TJ0GwXmcy0Lb4opWkGcpKxF4r5zCiw/YGErVgDnjyydG2DUJVmkBLzUrTJGdDhFzpCxaylohQE
+          width: 512
+          height: 512
+        full:
+          url: https://v5.airtableusercontent.com/v3/u/39/39/1743213600000/I_kJzNaP5UuRi5875RUjfg/fdeunIVYelHztozeQDplgMQKEPebIm01EZISpSWSgTYBgPm_4WVpevKIgqqSu6NoQ5NgEfLt_sBMbsup6lzXhW3CR5oRMupWjPL8sXqfD6rqGTa1UKzTJNXjyMVY6vS9LVHHuBqAobvGNGAZt1d19Q/yUPeTt1Vw35a2j6ou3ZlxAjbj6sZjTGTe4efK4GQcZY
+          width: 1000
+          height: 1000
+  Location: Venice
