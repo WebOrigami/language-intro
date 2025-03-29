@@ -10,8 +10,5 @@
 
   index.html = index.ori.html(data)
 
-  team = map(data, {
-    extension: "→.html"
-    value: person.ori.html
-  })
+  team = map(data, person.ori.html)
 }
