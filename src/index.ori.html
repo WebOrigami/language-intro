@@ -14,14 +14,14 @@
     <ul class="tileGrid">
       ${ map(_, (person) => indent`
       <li class="tile">
-        <a href="team/${ person/Name }.html">
+        <a href="team/${ person/name }.html">
           <img
             class="avatar"
-            src="images/${ person/Image/0/filename }"
-            alt="${ person/Name }"
+            src="images/${ person/filename }"
+            alt="${ person/name }"
           />
-          <h2 class="name">${ person/Name }</h2>
-          <div class="location">${ person/Location }</div>
+          <h2 class="name">${ person/name }</h2>
+          <div class="location">${ person/location }</div>
         </a>
       </li>
       `) }

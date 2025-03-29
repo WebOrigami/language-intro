@@ -3,10 +3,8 @@
 
   (data): airtable.ori/
 
-  images = map(data, {
-    key: (person) => person/Image/0/filename
-    value: (person) => fetch(person/Image/0/url)
-  })
+  // Create virtual image files that retrieve the corresponding URL
+  images = map(data, { key: =_/filename, value: =fetch(_/url) })
 
   index.html = index.ori.html(data)
 
