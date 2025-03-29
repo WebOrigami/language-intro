@@ -2,7 +2,6 @@
   assets
 
   (data): airtable.ori/
-  // (data): temp.yaml
 
   images = map(data, {
     key: (person) => person/Image/0/filename
@@ -12,7 +11,7 @@
   index.html = index.ori.html(data)
 
   team = map(data, {
-    key: (person, key) => `${ slash/remove(key) }.html`
+    extension: "→.html"
     value: person.ori.html
   })
 }
